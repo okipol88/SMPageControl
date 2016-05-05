@@ -1,15 +1,15 @@
 //
-//  SMPageControlTests.swift
-//  SMPageControlTests
+//  SMPageConrolLibTests.swift
+//  SMPageConrolLibTests
 //
 //  Created by Błażej Szajrych on 05.05.2016.
 //  Copyright © 2016 ITGenerator. All rights reserved.
 //
 
 import XCTest
-@testable import SMPageControl
+@testable import SMPageConrolLib
 
-class SMPageControlTests: XCTestCase {
+class SMPageConrolLibTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
